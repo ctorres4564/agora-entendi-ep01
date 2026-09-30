@@ -1,0 +1,427 @@
+1
+00:00:00,000 --> 00:00:03,408
+Você provavelmente já ouviu falar em dopamina.
+
+2
+00:00:03,758 --> 00:00:07,286
+Talvez tenha ouvido que ela é a substância do prazer.
+
+3
+00:00:07,636 --> 00:00:14,404
+Que, quando você come um chocolate ou recebe uma curtida, o cérebro solta dopamina e você se sente bem.
+
+4
+00:00:14,754 --> 00:00:17,010
+Não é exatamente assim.
+
+5
+00:00:17,360 --> 00:00:22,184
+E para entender por quê, precisamos começar por uma coisa muito menor.
+
+6
+00:00:22,534 --> 00:00:25,486
+Uma única célula: um neurônio.
+
+7
+00:00:26,486 --> 00:00:30,662
+Seu cérebro é feito de células, como o resto do corpo.
+
+8
+00:00:31,012 --> 00:00:38,404
+Mas algumas delas têm uma especialidade: receber e enviar sinais. Essas células são os neurônios.
+
+9
+00:00:38,754 --> 00:00:46,578
+Um neurônio tem ramificações curtas, que recebem mensagens, e um prolongamento mais longo, que leva a mensagem adiante.
+
+10
+00:00:46,928 --> 00:00:51,488
+Por dentro dele, a mensagem viaja como um pequeno impulso elétrico.
+
+11
+00:00:51,838 --> 00:00:54,430
+Você usa isso o tempo todo.
+
+12
+00:00:54,780 --> 00:01:03,228
+Quando encosta a mão numa panela quente e puxa antes mesmo de pensar "está quente", foram neurônios passando sinais em sequência, muito rápido.
+
+13
+00:01:03,578 --> 00:01:06,602
+E quantos neurônios existem no cérebro?
+
+14
+00:01:06,952 --> 00:01:11,344
+Durante décadas, os livros repetiram: cem bilhões.
+
+15
+00:01:11,694 --> 00:01:19,494
+Até que uma neurocientista brasileira, Suzana Herculano-Houzel, resolveu contar de verdade, num laboratório no Rio de Janeiro.
+
+16
+00:01:19,844 --> 00:01:28,196
+O resultado: cerca de 86 bilhões. Menos do que se dizia. Mas ainda uma quantidade enorme.
+
+17
+00:01:28,546 --> 00:01:35,098
+Só que um neurônio sozinho não faz nada. O interessante é como ele passa o recado para o próximo.
+
+18
+00:01:36,098 --> 00:01:40,370
+Imagine uma fila de pessoas passando um recado de ouvido em ouvido.
+
+19
+00:01:40,720 --> 00:01:44,320
+O recado precisa pular de uma pessoa para a próxima.
+
+20
+00:01:44,670 --> 00:01:50,382
+No cérebro, o ponto onde um neurônio passa o recado para outro tem nome: sinapse.
+
+21
+00:01:50,732 --> 00:01:53,036
+E aqui está uma surpresa.
+
+22
+00:01:53,386 --> 00:01:58,330
+Muita gente imagina o cérebro como fios elétricos emendados uns nos outros.
+
+23
+00:01:58,680 --> 00:02:03,384
+Mas, na maioria das sinapses, os neurônios nem se encostam.
+
+24
+00:02:03,734 --> 00:02:09,206
+Existe um espaço minúsculo entre eles, milhares de vezes mais fino que um fio de cabelo.
+
+25
+00:02:09,556 --> 00:02:15,604
+O sinal elétrico chega ao fim de um neurônio e para ali. Não consegue saltar sozinho.
+
+26
+00:02:15,954 --> 00:02:18,978
+Então, como o recado atravessa?
+
+27
+00:02:19,978 --> 00:02:22,642
+Ele atravessa na forma de química.
+
+28
+00:02:22,992 --> 00:02:28,248
+Quando o sinal chega ao fim do neurônio, ele libera pequenas substâncias nesse espaço.
+
+29
+00:02:28,598 --> 00:02:33,590
+Elas cruzam e se encaixam no neurônio seguinte, como uma chave numa fechadura.
+
+30
+00:02:33,940 --> 00:02:37,372
+Essas substâncias se chamam neurotransmissores.
+
+31
+00:02:37,722 --> 00:02:42,738
+Existem dezenas deles. E um é famoso: a dopamina.
+
+32
+00:02:43,088 --> 00:02:48,992
+Agora dá para voltar à pergunta do começo. A dopamina é a substância do prazer?
+
+33
+00:02:49,342 --> 00:02:58,990
+Nos anos 1980, o pesquisador Kent Berridge tentou provar exatamente isso em ratos. E o resultado surpreendeu até ele.
+
+34
+00:02:59,340 --> 00:03:03,948
+Ratos que ficavam praticamente sem dopamina deixavam de buscar comida.
+
+35
+00:03:04,298 --> 00:03:10,274
+Mas, quando o alimento era colocado na boca deles, ainda mostravam sinais de que gostavam.
+
+36
+00:03:10,624 --> 00:03:15,112
+Ou seja: a dopamina tem mais a ver com querer do que com gostar.
+
+37
+00:03:15,462 --> 00:03:20,262
+Com a motivação de ir atrás de algo, e com aprender o que vale a pena buscar.
+
+38
+00:03:20,612 --> 00:03:25,556
+Ela também participa de outras funções, como o controle dos movimentos.
+
+39
+00:03:25,906 --> 00:03:33,946
+Isso ajuda a entender por que você pode sentir vontade de abrir o celular a cada vibração, mesmo quando o que encontra lá nem é tão bom assim.
+
+40
+00:03:34,946 --> 00:03:41,762
+Com 86 bilhões de neurônios trocando recados, o cérebro não funciona como uma sala com um único chefe.
+
+41
+00:03:42,112 --> 00:03:44,872
+Funciona mais como uma cidade.
+
+42
+00:03:45,222 --> 00:03:48,486
+Regiões diferentes têm especialidades.
+
+43
+00:03:48,836 --> 00:03:54,140
+Umas lidam mais com a visão, outras com os movimentos, outras com a linguagem.
+
+44
+00:03:54,490 --> 00:03:57,898
+Mas quase nada acontece numa região só.
+
+45
+00:03:58,248 --> 00:04:07,392
+Quando você atende o telefone e reconhece a voz da sua mãe na primeira palavra, áreas ligadas à audição, à memória e à emoção estão trabalhando juntas.
+
+46
+00:04:07,742 --> 00:04:11,918
+Esses conjuntos de regiões conectadas são chamados de redes.
+
+47
+00:04:12,268 --> 00:04:17,284
+É aqui que cai um mito famoso: o de que usamos só 10% do cérebro.
+
+48
+00:04:17,634 --> 00:04:22,338
+Exames de imagem mostram atividade no cérebro inteiro ao longo do dia.
+
+49
+00:04:22,688 --> 00:04:26,528
+Não tudo ao mesmo tempo, com a mesma intensidade.
+
+50
+00:04:26,878 --> 00:04:33,934
+Numa cidade, nem todas as luzes ficam acesas a toda hora. Mas nenhum bairro está abandonado.
+
+51
+00:04:34,284 --> 00:04:37,404
+E essa cidade não fica igual para sempre.
+
+52
+00:04:38,404 --> 00:04:40,828
+Pense numa trilha num gramado.
+
+53
+00:04:41,178 --> 00:04:48,546
+Quando muita gente passa pelo mesmo caminho, ele fica marcado. Quando ninguém passa, o mato volta a crescer.
+
+54
+00:04:48,896 --> 00:04:53,168
+As conexões entre neurônios se comportam de um jeito parecido.
+
+55
+00:04:53,518 --> 00:04:59,134
+As que são muito usadas se fortalecem. As que ficam sem uso enfraquecem.
+
+56
+00:04:59,484 --> 00:05:04,740
+Essa capacidade do cérebro de mudar com a experiência tem nome: plasticidade.
+
+57
+00:05:05,090 --> 00:05:07,898
+Lembra das primeiras aulas de direção?
+
+58
+00:05:08,248 --> 00:05:14,008
+Trocar a marcha, olhar o retrovisor e controlar a embreagem exigiam toda a sua atenção.
+
+59
+00:05:14,358 --> 00:05:18,126
+Meses depois, você faz tudo isso conversando.
+
+60
+00:05:18,476 --> 00:05:25,076
+Essa mudança não aconteceu só no seu comportamento. Aconteceu nas conexões do seu cérebro.
+
+61
+00:05:25,426 --> 00:05:30,754
+A analogia da trilha tem um limite: o cérebro não só aprofunda caminhos antigos.
+
+62
+00:05:31,104 --> 00:05:35,424
+Ele também cria ligações novas e reorganiza as que já existem.
+
+63
+00:05:35,774 --> 00:05:39,878
+E um erro comum é achar que isso só acontece na infância.
+
+64
+00:05:40,228 --> 00:05:45,340
+A plasticidade é maior quando somos crianças, mas continua pela vida toda.
+
+65
+00:05:45,690 --> 00:05:50,466
+Um adulto que aprende a tocar um instrumento também está mudando o próprio cérebro.
+
+66
+00:05:51,466 --> 00:05:56,434
+Se as conexões mudam quando você vive alguma coisa, é aí que mora a memória.
+
+67
+00:05:56,784 --> 00:06:00,288
+E isso muda o jeito de pensar sobre lembranças.
+
+68
+00:06:00,638 --> 00:06:09,518
+A gente costuma imaginar a memória como um arquivo de computador: você guarda, depois abre, e ele está igualzinho. Não é assim.
+
+69
+00:06:09,868 --> 00:06:14,452
+Uma lembrança fica espalhada em pedaços, em várias partes da rede.
+
+70
+00:06:14,802 --> 00:06:20,778
+Quando você lembra, o cérebro junta esses pedaços de novo. Ele reconstrói.
+
+71
+00:06:21,128 --> 00:06:29,288
+E, nesse processo, pode preencher lacunas, misturar detalhes de outras situações e até incluir coisas que não aconteceram.
+
+72
+00:06:29,638 --> 00:06:36,574
+É por isso que dois irmãos podem contar a mesma festa de família de jeitos diferentes, os dois com toda a certeza.
+
+73
+00:06:36,924 --> 00:06:43,284
+Nenhum deles está necessariamente mentindo. Cada um reconstruiu a lembrança à sua maneira.
+
+74
+00:06:43,634 --> 00:06:51,506
+A psicóloga Elizabeth Loftus mostrou, em vários experimentos, que até a forma de fazer uma pergunta pode mudar o que a pessoa lembra.
+
+75
+00:06:51,856 --> 00:06:55,984
+Mas, para algo virar memória, primeiro precisa entrar.
+
+76
+00:06:56,984 --> 00:07:03,464
+A todo instante, chegam ao seu cérebro sons, imagens, cheiros, sensações do corpo.
+
+77
+00:07:03,814 --> 00:07:07,966
+Se tudo tivesse o mesmo peso, seria impossível pensar.
+
+78
+00:07:08,316 --> 00:07:14,388
+Por isso existe um filtro que decide o que ganha prioridade. Esse filtro é a atenção.
+
+79
+00:07:14,738 --> 00:07:18,050
+Funciona como um holofote num palco escuro.
+
+80
+00:07:18,400 --> 00:07:24,544
+O que está sob a luz fica nítido. O resto continua lá, mas em segundo plano.
+
+81
+00:07:24,894 --> 00:07:28,566
+Você já deve ter vivido isso numa festa barulhenta.
+
+82
+00:07:28,916 --> 00:07:34,820
+Você não presta atenção nas conversas ao redor, até que alguém do outro lado fala o seu nome.
+
+83
+00:07:35,170 --> 00:07:39,226
+Muitas vezes, na hora, o holofote vira para lá.
+
+84
+00:07:39,576 --> 00:07:42,936
+E aqui está o erro comum: a multitarefa.
+
+85
+00:07:43,286 --> 00:07:51,422
+Quando duas tarefas exigem atenção, como escrever uma mensagem e acompanhar uma aula, o cérebro não faz as duas ao mesmo tempo.
+
+86
+00:07:51,772 --> 00:07:57,676
+Ele alterna entre elas. E cada troca custa tempo e aumenta a chance de erro.
+
+87
+00:07:58,026 --> 00:08:03,042
+Agora, o que acontece com tudo isso quando você apaga a luz e vai dormir?
+
+88
+00:08:04,042 --> 00:08:11,482
+Muita gente imagina que, durante o sono, o cérebro desliga para descansar. Não é o que acontece.
+
+89
+00:08:11,832 --> 00:08:17,256
+Pesquisadores que acompanharam a atividade do cérebro durante a noite viram algo curioso:
+
+90
+00:08:17,606 --> 00:08:23,078
+regiões usadas para aprender algo durante o dia voltam a ficar ativas no sono seguinte.
+
+91
+00:08:23,428 --> 00:08:29,572
+Em ratos, dá para ver até os mesmos neurônios disparando na mesma ordem, só que mais rápido.
+
+92
+00:08:29,922 --> 00:08:33,330
+É como se o cérebro repassasse o que foi vivido.
+
+93
+00:08:33,680 --> 00:08:41,768
+Esse repasse ajuda a fortalecer as lembranças novas e a encaixá-las no que você já sabia. O nome disso é consolidação.
+
+94
+00:08:42,118 --> 00:08:46,342
+É por isso que uma noite de sono depois de estudar faz diferença.
+
+95
+00:08:46,692 --> 00:08:52,116
+E também por que aquele problema que parecia sem saída às vezes fica mais claro de manhã.
+
+96
+00:08:52,466 --> 00:08:57,194
+Uma ressalva: o sono ajuda a guardar o que você aprendeu acordado.
+
+97
+00:08:57,544 --> 00:09:01,504
+Ouvir uma aula dormindo não é um jeito de aprender o conteúdo.
+
+98
+00:09:02,504 --> 00:09:05,096
+Então vamos juntar as peças.
+
+99
+00:09:05,446 --> 00:09:08,782
+Neurônios são células que enviam sinais.
+
+100
+00:09:09,132 --> 00:09:16,884
+Eles se comunicam nas sinapses, por meio de neurotransmissores, como a dopamina, que tem mais a ver com querer do que com gostar.
+
+101
+00:09:17,234 --> 00:09:21,314
+Esses neurônios formam redes espalhadas pelo cérebro inteiro.
+
+102
+00:09:21,664 --> 00:09:25,696
+E essas redes mudam com o uso: isso é plasticidade.
+
+103
+00:09:26,046 --> 00:09:32,382
+É nessa mudança que mora a memória, que depende do que a atenção deixou entrar e que o sono ajuda a fixar.
+
+104
+00:09:32,732 --> 00:09:35,660
+Esse é o mapa básico do seu cérebro.
+
+105
+00:09:36,010 --> 00:09:38,554
+Mas ele deixa uma pergunta no ar.
+
+106
+00:09:38,904 --> 00:09:45,312
+Se o cérebro muda toda vez que você aprende, o que exatamente acontece quando você aprende alguma coisa?
+
+107
+00:09:45,662 --> 00:09:48,398
+É o que a gente vê no próximo vídeo.

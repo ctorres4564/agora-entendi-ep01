@@ -26,8 +26,11 @@ ENV/
 
 # Arquivos temporários e de render pesados
 *.tmp
+*.wav
 /scratch/
 node_modules/
+assets/images/scenes/
+assets/audio/segments/
 
 # Sistema
 .DS_Store
